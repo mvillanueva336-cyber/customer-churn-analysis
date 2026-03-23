@@ -1,6 +1,6 @@
 # Customer Churn Analysis
 
-Author: Max Villanueva  
+Author: Maximino Villanueva  
 MBA in Business Analytics (In Progress)
 
 ## Project Overview
