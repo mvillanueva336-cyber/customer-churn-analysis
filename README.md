@@ -78,6 +78,6 @@ Project documentation.
 
 ## Author
 
-Max Villanueva  
+Maximino Villanueva  
 MBA Business Analytics  
 GitHub Portfolio Project
